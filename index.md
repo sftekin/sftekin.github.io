@@ -1,7 +1,7 @@
 
-<img src="profile.png" alt="drawing" width="200"/>
+<img src="profile.png" alt="drawing" width="300"/>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am M.Sc. student in the Electrical and Electronics Engineering at Bilkent University advised by Prof. Suleyman Serdar Kozat. I also work as a Data Scientist at Databoss company.
 
 ### Markdown
 
