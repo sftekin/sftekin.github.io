@@ -1,5 +1,5 @@
 
-![](/profile.png =100x20)
+<img src="profile.png" alt="drawing" width="200"/>
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
