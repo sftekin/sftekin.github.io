@@ -1,36 +1,36 @@
 
 <img src="profile.png" alt="drawing" width="300"/>
 
-I am M.Sc. student in the [Electrical and Electronics Engineering at Bilkent University](https://ee.bilkent.edu.tr/en/) advised by [Prof. Suleyman Serdar Kozat](http://kilyos.ee.bilkent.edu.tr/~kozat/). I also work as a Data Scientist at Databoss company.
+I am M.Sc. student in the [Electrical and Electronics Engineering at Bilkent University](https://ee.bilkent.edu.tr/en/) advised by [Prof. Suleyman Serdar Kozat](http://kilyos.ee.bilkent.edu.tr/~kozat/). My bachelor is in the same department and university. I also work as a full time Data Scientist at [Databoss](http://data-boss.com.tr) company. My research focuses on Spatio-temporal series forecasting including weather prediction and event prediction. With my research group, we develop deep learning tools for time series prediction. Besides, I worked on Natural Language Processing projects including Named Entity Recognition and Sentiment detection. 
 
-### Markdown
+## Publications
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Conferance Papers
 
-```markdown
-Syntax highlighted code block
+* **S. F. Tekin**, Ismail Balaban, and S. S. Kozat “Multi-step Spatio-Temporal Weather Forecasting With Joint Spatio-Temporal Sequence and Side-Information Optimization”, (submitted) **Turkish  State  Meteorological  Service** 31 May 2020.
 
-# Header 1
-## Header 2
-### Header 3
+* **Selim F. Tekin** and Bilgin Aksoy, "Multi-step Spatio-Temporal Temperature Forecasting", (submitted)**IEEE**, 17 January 2020.
 
-- Bulleted
-- List
+* **Selim F. Tekin**, Selim F. Yilmaz, and Ismail Balaban, "Deep Learning on Limited Turkish Data", (submitted)**IEEE**, 17 January 2020.
 
-1. Numbered
-2. List
+* Fatih Ilhan, **Selim F. Tekin**, and Bilgin Aksoy, "Spatio-Temporal Crime Prediction with Temporally Hierarchical Convolutional NeuralNetworks", (submitted)**IEEE***, 17 January 2020.
 
-**Bold** and _Italic_ and `Code` text
+* O. Karaahmetoglu, Fatih Irım, and **S. F. Tekin**, "Interpretable Classification And Regression For Time Series Data", (submitted)**IEEE**, 17 January 2020.
 
-[Link](url) and ![Image](src)
-```
+* Selim F. Yilmaz, Ismail Balaban, **Selim F. Tekin**, and Suleyman S. Kozat, "Hybrid Framework for Named Entity Recognition in Turkish Social Media", (submitted)**IEEE**, 17 January 2020.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Journal Papers
 
-### Jekyll Themes
+* O. Karaahmetoglu, **S. F. Tekin**, S. S. Kozat, "Distributed Online Multi-Target Tracking With Switching LSTM Networks", (Submitted to **IEEE Transactions on Neural Networks and Learning Systems**, July 2020.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sftekin/sftekin.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Working Papers
 
-### Support or Contact
+* **S. F. Tekin**, S. S. Kozat “Dual-Stage Attention-Based Convolutional LSTM Network for Weather Forecasting”
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* **S. F. Tekin**, O. Karaahmetoglu, and S. S. Kozat “Multiple Target Tracking with Deep Particle Filters.”
+
+## Patents
+
+* F. Ilhan, O. Karaahmetoglu, **S. F. Tekin**, I. Balaban and S. S. Kozat, “Spatio-temporal Sparse Event Prediction with Hierarchical Expert Models”, Turkish Patent, 2020.
+* F. Ilhan, O. Karaahmetoglu, **S. F. Tekin**, I. Balaban and S. S. Kozat, “Energy Consumption Forecasting with Time Series Clustering”, Turkish Patent, 2020.
+* F. Ilhan, O. Karaahmetoglu, **S. F. Tekin**, I. Balaban and S. S. Kozat, “Crime Analysis Tool for Spatio-temporal and Contextual Link Interpretability”, Turkish Patent, 2020.
