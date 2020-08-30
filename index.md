@@ -1,7 +1,7 @@
 
 <img src="profile.png" alt="drawing" width="300"/>
 
-I am M.Sc. student in the Electrical and Electronics Engineering at Bilkent University advised by Prof. Suleyman Serdar Kozat. I also work as a Data Scientist at Databoss company.
+I am M.Sc. student in the [Electrical and Electronics Engineering at Bilkent University](https://ee.bilkent.edu.tr/en/) advised by [Prof. Suleyman Serdar Kozat](http://kilyos.ee.bilkent.edu.tr/~kozat/). I also work as a Data Scientist at Databoss company.
 
 ### Markdown
 
