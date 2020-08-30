@@ -34,3 +34,5 @@ I am M.Sc. student in the [Electrical and Electronics Engineering at Bilkent Uni
 * F. Ilhan, O. Karaahmetoglu, **S. F. Tekin**, I. Balaban and S. S. Kozat, “Spatio-temporal Sparse Event Prediction with Hierarchical Expert Models”, Turkish Patent, 2020.
 * F. Ilhan, O. Karaahmetoglu, **S. F. Tekin**, I. Balaban and S. S. Kozat, “Energy Consumption Forecasting with Time Series Clustering”, Turkish Patent, 2020.
 * F. Ilhan, O. Karaahmetoglu, **S. F. Tekin**, I. Balaban and S. S. Kozat, “Crime Analysis Tool for Spatio-temporal and Contextual Link Interpretability”, Turkish Patent, 2020.
+
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
