@@ -13,7 +13,7 @@ I am M.Sc. student in the [Electrical and Electronics Engineering at Bilkent Uni
 
 * **Selim F. Tekin**, Selim F. Yilmaz, and Ismail Balaban, "Deep Learning on Limited Turkish Data", (submitted)**IEEE**, 17 January 2020.
 
-* Fatih Ilhan, **Selim F. Tekin**, and Bilgin Aksoy, "Spatio-Temporal Crime Prediction with Temporally Hierarchical Convolutional NeuralNetworks", (submitted)**IEEE***, 17 January 2020.
+* Fatih Ilhan, **Selim F. Tekin**, and Bilgin Aksoy, "Spatio-Temporal Crime Prediction with Temporally Hierarchical Convolutional NeuralNetworks", (submitted)**IEEE**, 17 January 2020.
 
 * O. Karaahmetoglu, Fatih Irım, and **S. F. Tekin**, "Interpretable Classification And Regression For Time Series Data", (submitted)**IEEE**, 17 January 2020.
 
@@ -34,5 +34,14 @@ I am M.Sc. student in the [Electrical and Electronics Engineering at Bilkent Uni
 * F. Ilhan, O. Karaahmetoglu, **S. F. Tekin**, I. Balaban and S. S. Kozat, “Spatio-temporal Sparse Event Prediction with Hierarchical Expert Models”, Turkish Patent, 2020.
 * F. Ilhan, O. Karaahmetoglu, **S. F. Tekin**, I. Balaban and S. S. Kozat, “Energy Consumption Forecasting with Time Series Clustering”, Turkish Patent, 2020.
 * F. Ilhan, O. Karaahmetoglu, **S. F. Tekin**, I. Balaban and S. S. Kozat, “Crime Analysis Tool for Spatio-temporal and Contextual Link Interpretability”, Turkish Patent, 2020.
+
+## Academic Experience
+* Tutor:
+  * CS 115 (Introduction to Programming in Python) in Spring 2018
+* Grader:
+  * MATH 241 (Engineering Mathematics I) in Fall 2019
+  * MATH 242 (Engineering Mathematics II) in Spring 2020
+
+
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
