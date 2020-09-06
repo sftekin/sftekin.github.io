@@ -5,7 +5,7 @@ I am M.Sc. student in the [Electrical and Electronics Engineering at Bilkent Uni
 
 ## Publications
 
-## Conferance Papers
+## Conference Papers
 
 * **S. F. Tekin**, Ismail Balaban, and S. S. Kozat “Multi-step Spatio-Temporal Weather Forecasting With Joint Spatio-Temporal Sequence and Side-Information Optimization”, (submitted) **Turkish  State  Meteorological  Service** 31 May 2020.
 
