@@ -41,7 +41,7 @@ I am M.Sc. student in the [Electrical and Electronics Engineering at Bilkent Uni
 * Grader:
   * MATH 241 (Engineering Mathematics I) in Fall 2019
   * MATH 242 (Engineering Mathematics II) in Spring 2020
-  * EEE 391 (Basics of Signals and Systems) in Spring 2020
+  * EEE 391 (Basics of Signals and Systems) in Fall 2020
 
 
 
