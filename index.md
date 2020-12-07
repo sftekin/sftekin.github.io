@@ -5,13 +5,22 @@ I am M.Sc. student in the [Electrical and Electronics Engineering at Bilkent Uni
 
 ## Publications
 
+## Journal Papers
+
+* **S. F. Tekin**, S. S. Kozat “Flow Gated Conv-LSTM Network for Weather Forecasting”, Submitted to **IEEE Transactions on Neural Networks and Learning Systems**, December 2020.
+
+* **S. F. Tekin**, O. Karaahmetoglu, and S. S. Kozat “Multiple Target Tracking with Deep Particle Filters.”, Submitted to **IEEE Transactions on Neural Networks and Learning Systems**, December 2020.
+
+* O. Karaahmetoglu, **S. F. Tekin**, S. S. Kozat, "Distributed Online Multi-Target Tracking With Switching LSTM Networks", (Submitted to **IEEE Transactions on Neural Networks and Learning Systems**, July 2020.
+
+
 ## Conference Papers
 
 * **S. F. Tekin**, Ismail Balaban, and S. S. Kozat “Multi-step Spatio-Temporal Weather Forecasting With Joint Spatio-Temporal Sequence and Side-Information Optimization”, (submitted) **Turkish  State  Meteorological  Service** 31 May 2020.
 
-* **Selim F. Tekin** and Bilgin Aksoy, "Multi-step Spatio-Temporal Temperature Forecasting", (submitted)**IEEE**, 17 January 2020.
+* **Selim F. Tekin** and Bilgin Aksoy, "Multi-step Spatio-Temporal Temperature Forecasting", (published)**IEEE**, 17 January 2020.
 
-* **Selim F. Tekin**, Selim F. Yilmaz, and Ismail Balaban, "Deep Learning on Limited Turkish Data", (submitted)**IEEE**, 17 January 2020.
+* **Selim F. Tekin**, Selim F. Yilmaz, and Ismail Balaban, "Deep Learning on Limited Turkish Data", (published)**IEEE**, 17 January 2020.
 
 * Fatih Ilhan, **Selim F. Tekin**, and Bilgin Aksoy, "Spatio-Temporal Crime Prediction with Temporally Hierarchical Convolutional NeuralNetworks", (submitted)**IEEE**, 17 January 2020.
 
@@ -19,21 +28,12 @@ I am M.Sc. student in the [Electrical and Electronics Engineering at Bilkent Uni
 
 * Selim F. Yilmaz, Ismail Balaban, **Selim F. Tekin**, and Suleyman S. Kozat, "Hybrid Framework for Named Entity Recognition in Turkish Social Media", (submitted)**IEEE**, 17 January 2020.
 
-## Journal Papers
-
-* O. Karaahmetoglu, **S. F. Tekin**, S. S. Kozat, "Distributed Online Multi-Target Tracking With Switching LSTM Networks", (Submitted to **IEEE Transactions on Neural Networks and Learning Systems**, July 2020.
-
-## Working Papers
-
-* **S. F. Tekin**, S. S. Kozat “Dual-Stage Attention-Based Convolutional LSTM Network for Weather Forecasting”
-
-* **S. F. Tekin**, O. Karaahmetoglu, and S. S. Kozat “Multiple Target Tracking with Deep Particle Filters.”
 
 ## Patents
 
-* F. Ilhan, O. Karaahmetoglu, **S. F. Tekin**, I. Balaban and S. S. Kozat, “Spatio-temporal Sparse Event Prediction with Hierarchical Expert Models”, Turkish Patent, 2020.
-* F. Ilhan, O. Karaahmetoglu, **S. F. Tekin**, I. Balaban and S. S. Kozat, “Energy Consumption Forecasting with Time Series Clustering”, Turkish Patent, 2020.
-* F. Ilhan, O. Karaahmetoglu, **S. F. Tekin**, I. Balaban and S. S. Kozat, “Crime Analysis Tool for Spatio-temporal and Contextual Link Interpretability”, Turkish Patent, 2020.
+* F. Ilhan, **S. F. Tekin**, O. Karaahmetoglu, I. Balaban and S. S. Kozat, “Spatio-temporal Sparse Event Prediction with Hierarchical Expert Models”, Turkish Patent, 2020.
+* F. Ilhan, **S. F. Tekin**, O. Karaahmetoglu, I. Balaban and S. S. Kozat, “Energy Consumption Forecasting with Time Series Clustering”, Turkish Patent, 2020.
+* F. Ilhan, **S. F. Tekin**, O. Karaahmetoglu, I. Balaban and S. S. Kozat, “Crime Analysis Tool for Spatio-temporal and Contextual Link Interpretability”, Turkish Patent, 2020.
 
 ## Academic Experience
 * Tutor:
@@ -41,6 +41,7 @@ I am M.Sc. student in the [Electrical and Electronics Engineering at Bilkent Uni
 * Grader:
   * MATH 241 (Engineering Mathematics I) in Fall 2019
   * MATH 242 (Engineering Mathematics II) in Spring 2020
+  * EEE 391 (Basics of Signals and Systems) in Spring 2020
 
 
 
