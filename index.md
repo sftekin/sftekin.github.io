@@ -37,9 +37,9 @@ I am M.Sc. student in the [Electrical and Electronics Engineering at Bilkent Uni
 
 # Projects
 
-* Image Captioning [[code](https://github.com/sftekin/image_captioning)]
+* Image Captioning [[paper](https://sftekin.github.io/pdfs/image_cap.pdf)] [[code](https://github.com/sftekin/image_captioning)]
 
-* Hurricane Hunters [[code](https://github.com/sftekin/hurricane-hunters)]
+* Hurricane Hunters [[paper](https://sftekin.github.io/pdfs/hurricane.pdf)] [[code](https://github.com/sftekin/hurricane-hunters)]
 
 * Headline Generator [[code](https://github.com/sftekin/headline-generator)]
 
