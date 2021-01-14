@@ -18,11 +18,11 @@ I am M.Sc. student in the [Electrical and Electronics Engineering at Bilkent Uni
 
 * **S. F. Tekin**, Ismail Balaban, and S. S. Kozat “Multi-step Spatio-Temporal Weather Forecasting With Joint Spatio-Temporal Sequence and Side-Information Optimization”, (submitted) **Turkish  State  Meteorological  Service** 31 May 2020.
 
-* **Selim F. Tekin** and Bilgin Aksoy, "Multi-step Spatio-Temporal Temperature Forecasting", (published)**IEEE**, 17 January 2020.
+* **Selim F. Tekin** and Bilgin Aksoy, "Multi-step Spatio-Temporal Temperature Forecasting", (published)**IEEE**, 17 January 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9302113) [code](https://github.com/sftekin/weather_sui)
 
-* **Selim F. Tekin**, Selim F. Yilmaz, and Ismail Balaban, "Deep Learning on Limited Turkish Data", (published)**IEEE**, 17 January 2020.
+* **Selim F. Tekin**, Selim F. Yilmaz, and Ismail Balaban, "Deep Learning on Limited Turkish Data", (published)**IEEE**, 17 January 2020. [poster] () [code](https://github.com/sftekin/siu_nlp)
 
-* Fatih Ilhan, **Selim F. Tekin**, and Bilgin Aksoy, "Spatio-Temporal Crime Prediction with Temporally Hierarchical Convolutional NeuralNetworks", (submitted)**IEEE**, 17 January 2020.
+* Fatih Ilhan, **Selim F. Tekin**, and Bilgin Aksoy, "Spatio-Temporal Crime Prediction with Temporally Hierarchical Convolutional NeuralNetworks", (published)**IEEE**, 17 January 2020. [paper](https://ieeexplore.ieee.org/document/9302169)
 
 * O. Karaahmetoglu, Fatih Irım, and **S. F. Tekin**, "Interpretable Classification And Regression For Time Series Data", (submitted)**IEEE**, 17 January 2020.
 
