@@ -7,9 +7,9 @@ I am M.Sc. student in the [Electrical and Electronics Engineering at Bilkent Uni
 
 ## Journal Papers
 
-* **S. F. Tekin**, S. S. Kozat “Flow Gated Conv-LSTM Network for Weather Forecasting”, Submitted to **IEEE Transactions on Neural Networks and Learning Systems**, December 2020.
+* **S. F. Tekin**, S. S. Kozat “Spatio-Temporal Weather Forecasting and Side-information Optimization on Convolutional LSTMs”, Submitted to **IEEE Transactions on Neural Networks and Learning Systems**, December 2020.
 
-* **S. F. Tekin**, O. Karaahmetoglu, and S. S. Kozat “Multiple Target Tracking with Deep Particle Filters.”, Submitted to **IEEE Transactions on Neural Networks and Learning Systems**, December 2020.
+* **S. F. Tekin**, O. Karaahmetoglu, and S. S. Kozat “Multiple Target Tracking with Deep Particle Filters.”, to be submitted to **IEEE Transactions on Neural Networks and Learning Systems**, December 2020.
 
 * O. Karaahmetoglu, **S. F. Tekin**, S. S. Kozat, "Distributed Online Multi-Target Tracking With Switching LSTM Networks", (Submitted to **IEEE Transactions on Neural Networks and Learning Systems**, July 2020.
 
