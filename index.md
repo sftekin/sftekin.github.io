@@ -7,7 +7,7 @@ I am M.Sc. student in the [Electrical and Electronics Engineering at Bilkent Uni
 
 ## Journal Papers
 
-* **S. F. Tekin**, Oguzhan Karaahmetoglu, Fatih Ilhan, Ismail Balaban, and S. S. Kozat “Spatio-temporal Weather Forecasting and Attention Mechanism on Convolutional LSTMs”, Submitted to **IEEE Transactions on Pattern Analysis and Machine Intelligence**, February 2021. [https://arxiv.org/abs/2102.00696](https://arxiv.org/abs/2102.00696) [[code]](https://github.com/sftekin/ieee_weather)
+* **S. F. Tekin**, Oguzhan Karaahmetoglu, Fatih Ilhan, Ismail Balaban, and S. S. Kozat “Spatio-temporal Weather Forecasting and Attention Mechanism on Convolutional LSTMs”, Submitted to **IEEE Transactions on Pattern Analysis and Machine Intelligence**, February 2021. [https://arxiv.org/abs/2102.00696](https://arxiv.org/abs/2102.00696) [[code](https://github.com/sftekin/ieee_weather)]
 
 * **S. F. Tekin**, O. Karaahmetoglu, and S. S. Kozat “Multiple Target Tracking with Deep Particle Filters.”, to be submitted to **IEEE Transactions on Neural Networks and Learning Systems**, December 2020.
 
@@ -41,7 +41,7 @@ I am M.Sc. student in the [Electrical and Electronics Engineering at Bilkent Uni
 
 * Hurricane Hunters [[paper](https://sftekin.github.io/pdfs/hurricane.pdf)] [[code](https://github.com/sftekin/hurricane-hunters)]
 
-* Headline Generator [[paper]](https://sftekin.github.io/pdfs/EEE586_Project_Report.pdf) [[code](https://github.com/sftekin/headline-generator)]
+* Headline Generator [[paper](https://sftekin.github.io/pdfs/EEE586_Project_Report.pdf)] [[code](https://github.com/sftekin/headline-generator)]
 
 
 
