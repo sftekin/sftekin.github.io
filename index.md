@@ -9,12 +9,14 @@ I am M.Sc. student in the [Electrical and Electronics Engineering at Bilkent Uni
 
 * **S. F. Tekin**, Oguzhan Karaahmetoglu, Fatih Ilhan, Ismail Balaban, and S. S. Kozat “Spatio-temporal Weather Forecasting and Attention Mechanism on Convolutional LSTMs”, Submitted to **IEEE Transactions on Pattern Analysis and Machine Intelligence**, February 2021. [https://arxiv.org/abs/2102.00696](https://arxiv.org/abs/2102.00696) [[code](https://github.com/sftekin/ieee_weather)]
 
-* **S. F. Tekin**, O. Karaahmetoglu, and S. S. Kozat “Multiple Target Tracking with Deep Particle Filters.”, to be submitted to **IEEE Transactions on Neural Networks and Learning Systems**, December 2020.
+* **S. F. Tekin** and S. S. Kozat “Spatio-temporal Graph Neural Networks with side information optimization in Crime Prediction.”, to be submitted to **IEEE Transactions on Neural Networks and Learning Systems**, April 2021.
 
 * O. Karaahmetoglu, **S. F. Tekin**, S. S. Kozat, "Distributed Online Multi-Target Tracking With Switching LSTM Networks", (Submitted to **IEEE Transactions on Neural Networks and Learning Systems**, July 2020.
 
 
 ## Conference Papers
+
+* **S. F. Tekin** and S. S. Kozat “Hurricane Tracking with Attention based Conv-LSTMS”, to be submitted, March 2021.
 
 * **S. F. Tekin**, Ismail Balaban, and S. S. Kozat “Multi-step Spatio-Temporal Weather Forecasting With Joint Spatio-Temporal Sequence and Side-Information Optimization”, (submitted) **Turkish  State  Meteorological  Service** 31 May 2020.
 
@@ -52,6 +54,7 @@ I am M.Sc. student in the [Electrical and Electronics Engineering at Bilkent Uni
   * MATH 241 (Engineering Mathematics I) in Fall 2019
   * MATH 242 (Engineering Mathematics II) in Spring 2020
   * EEE 391 (Basics of Signals and Systems) in Fall 2020
+  * EEE 391 (Basics of Signals and Systems) in Spring 2021
 
 
 
